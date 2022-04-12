@@ -1,3 +1,5 @@
+//this is v1 (without blacklists)
+
 const Discord = require("discord.js");
 
 const { MessageEmbed } = require('discord.js');
