@@ -20,7 +20,7 @@ client.on("messageCreate", message =>{
 
 client.on("messageCreate", message =>{
     //i know i can combine these if statements but we dont like efficiency here
-    if(message.channel.id == "963332817549414400"){
+    if(message.channel.id == "insert channel id here"){
       if(message.content.indexOf(" ")!==-1){
         message.channel.bulkDelete(1);
        }
