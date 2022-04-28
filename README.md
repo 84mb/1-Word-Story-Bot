@@ -3,6 +3,9 @@ This is a bot made for Tritho's Tree --> https://discord.gg/VhVZDvPaQF
 
 really inefficient code (i suck at js and programming in general)
 
+I didn't include some of the fun commands in the file because they are supposed to be secret (try ;suragivemod)
+
+
 Changelog{
 
 v1: "added 1 word story function (deletes message if it has a space in it), 
