@@ -29,5 +29,4 @@ client.on("messageCreate", message =>{
     }
 });
 
-
 client.login("has been removed for obvious reasons")
