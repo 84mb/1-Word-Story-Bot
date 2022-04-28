@@ -65,5 +65,4 @@ client.on("messageCreate", message =>{
       message.channel.send("mooooo! :cow:");
     }
   }
-
 });
