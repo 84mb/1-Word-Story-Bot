@@ -195,16 +195,6 @@ try{
   
       message.channel.send({ embeds: [exampleEmbed] });
   }  
-    if(message.content==prefix+"isawit"){
-      //client.channels.cache.get("479551871128961026").send(tag+" saw the message");
-      client.users.fetch('479551871128961026').then((user) => {
-      try {
-      	user.send(tag+" saw the message");	
-      } catch (err){
-      	message.channel.send("something went wrong :pensive:");
-      }
-    })
-  }
     if(message.content==prefix+"mod"){
       if(hasMod==true){
         message.channel.send("respect, you have mod")
