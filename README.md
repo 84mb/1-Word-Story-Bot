@@ -19,3 +19,6 @@ v3: "changed ;setblacklist function to ;blacklist,
     added ;generate command so you can generate anything that you want (i wish i could generate efficiency), 
     added ;maxitbroken command which pings me if an error occurs"
 }
+
+
+dm 84mb#1535 on discord if you have any questions or any suggestions
