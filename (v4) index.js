@@ -5,7 +5,6 @@ const { Client, Intents } = require('discord.js');
 
 const { SlashCommandBuilder } = require('@discordjs/builders');
 
-
 const client = new Client({ intents: [Intents.FLAGS.GUILDS, Intents.FLAGS.GUILD_MESSAGES],ws: { properties: { $browser: "Discord iOS"}} });
 
 const { MessageActionRow, MessageButton } = require('discord.js');
