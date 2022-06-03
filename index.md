@@ -1,8 +1,28 @@
-## Welcome to GitHub Pages
+Hello!
 
-You can use the [editor on GitHub](https://github.com/84mb/1-Word-Story-Bot/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+I am 84mb, a teenager who loves to code!
+I am currently working on a discord bot called '1 Word Story Bot!'
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Commands:
+```
+misc:
+  ;code => sends a link to my github page
+  ;help => sends an embed with commands
+  ;requestfeature + desc => sends a dm to me with who sent the message, and what the description is
+  ;reportbug + desc => sends a dm to me with who sent the message, and what the description is
+
+blacklist commands:
+  ;blacklisthelp => sends an embed with all the blacklist commands
+  ;blacklist + word => adds a blacklisted word to the list
+  ;unblacklist + word => removes a blacklisted word form the list
+  ;blacklistlist => removes a blacklisted word form the list
+  
+vote commands:
+  ;votehelp => sends an embed with all the vote commands
+  ;votecreate + name => creates a poll with the name
+  ;closevote + name => closes the poll with the matching name
+  ;voteresults + name => sends an embed with the results of the poll
+```
 
 ### Markdown
 
